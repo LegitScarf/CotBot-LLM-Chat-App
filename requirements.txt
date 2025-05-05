@@ -1,2 +1,3 @@
 streamlit>=1.29.0
 google-generativeai>=0.3.0
+https://console.cloud.google.com/apis/library/generativelanguage.googleapis.com?project=winter-bloom-416717
